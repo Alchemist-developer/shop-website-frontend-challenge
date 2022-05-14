@@ -15,7 +15,10 @@
 ## Resultado
 
  ![image](https://user-images.githubusercontent.com/88943961/168411831-73279374-5239-4b5d-a47c-5e3ce9252fa0.png)
-
+  
+  <p align="center">
+  <a href="https://shop-website-jet.vercel.app/">Página - Resultado</a>
+</p>
   
 <br/>
 
