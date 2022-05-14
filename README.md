@@ -3,19 +3,27 @@
   <a href="https://www.linkedin.com/in/adryelsimon">
 
  <p align="center">
-    Site de loja de roupas e sapatos
+   Site de loja de roupas e sapatos</a>
        <br />
     <br />
+   <a href="https://shop-website-jet.vercel.app/">Página do Resultado</a>
+    ·
     <a href="https://github.com/devchallenge-io/shop-website">Desafio</a>
     ·
     <a href="https://devchallenge.now.sh/">DevChallenge</a>
+    <br />
+   <br />
+   
   </p>
 </p>
 
 ## Resultado
 
  ![image](https://user-images.githubusercontent.com/88943961/168411831-73279374-5239-4b5d-a47c-5e3ce9252fa0.png)
-
+  
+  <p align="center">
+  
+</p>
   
 <br/>
 
