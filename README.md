@@ -14,13 +14,15 @@
 
 ## Resultado
 
+  ![image](https://user-images.githubusercontent.com/88943961/168411508-3dc237c4-f955-4c10-a21a-15cd38748af9.png)
+
+  
 <br/>
 
 ## Índice
 
 - [Devchallenge](#devchallenge)
 - [Desafio](#desafio)
-- [Techs](#techs)
 
 # Devchallenge
 
