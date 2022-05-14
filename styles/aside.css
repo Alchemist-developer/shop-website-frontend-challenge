@@ -1,0 +1,156 @@
+/* aside left */
+
+.aside-column {
+    width: 17vw;
+    height: 100vh;
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.aside-title {
+    color: white;
+    background-color: #E67E23;
+    height: 5%;
+    width: 100px;
+    margin: auto;
+    text-align: center;
+    letter-spacing: 5px;
+    padding: 20px 0px 0px 0px;
+}
+
+.aside-middle {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 75%;
+    text-align: center;
+}
+
+.nav-aside {
+    text-decoration: none;
+    color: #B7B7B7;
+    font-weight: bold;
+    padding: 8px;
+    font-size: larger;
+    letter-spacing: 2px;
+}
+
+.nav-aside:hover {
+    transition: 0.9s;
+    color: #E67E23;
+}
+
+.aside-footer {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    height: 5%;
+    margin-top: 75px;
+}
+
+.icon {
+    width: 20px;
+    padding: 15px;
+}
+
+/* aside right */
+
+.aside-right {
+    width: 300vw;
+}
+
+
+.aside-card {
+    width: 100%;
+}
+
+.nav-header {
+    display: flex;
+}
+
+.head {
+    display: flex;
+    flex-direction: row;
+}
+
+.nav-links {
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}
+
+.nav-icons {
+    width: 18px;
+    padding: 0px 2px 0px 50px;
+}
+
+.links {
+    text-decoration: none;
+    color: black;
+    letter-spacing: 2px;
+    padding-left: 10px;
+    width: 130px;
+}
+
+.icons-links {
+    display: flex;
+    flex-direction: row;
+    margin: 2px;
+}
+
+.aside-body {
+    display: flex;
+    flex-direction: column;
+    margin: 500px 0px 0px 200px;
+}
+
+.size-shirt {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.rounded {
+    background-color: rgba(255, 255, 255, 0.373);
+    width: 20px;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 50%;
+    text-align: center;
+    border: 3px solid rgba(59, 59, 59, 0.496);
+    cursor: pointer;
+}
+
+.aside-prev {
+    padding-left: 100px;
+    text-decoration: none;
+    color: black;
+}
+
+.rounded:hover {
+    border: 3px solid #e67e23;
+}
+
+.arrow-right {
+    padding-left: 20px
+}
+
+.add-cart {
+    height: 25px;
+    width: 150px;
+    background-color: #E67E23;
+    text-align: center;
+    padding: 20px;
+    padding-top: 20px;
+    margin-top: 50px;
+    cursor: pointer;
+}
+
+a {
+    text-decoration: none;
+    cursor: pointer;
+}
